@@ -1,0 +1,3 @@
+public enum EspNoMedico {
+    ENFERMEROS, RECEPCIONISTAS, LIMPIADORES
+}
